@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416381146200",
+    "project_id": "cinemapedia-3a459",
+    "storage_bucket": "cinemapedia-3a459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416381146200:android:5847ebe0a2f2cb3d4ae62d",
+        "android_client_info": {
+          "package_name": "com.example.cinemapedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6wAYz9k_DEHMeyU5YDmNELWWMq1SrNWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
